@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Osumyantra.github.io
+title: Osum! Yantra Logs
+tagline: Ideas, Stories & Techniq
+description: Official Engineering Blog of OSUM! Yantra Design Studio.
+paginate: 10
